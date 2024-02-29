@@ -1,0 +1,243 @@
+{
+  "pets": [
+    {
+      "petId": 1,
+      "name": "Hussar",
+      "species": {
+        "id": 1,
+        "description": "Canine",
+        "bookInitialConsultOnline": true
+      },
+      "breed": {
+        "id": 114407057,
+        "description": "Crossbreed"
+      },
+      "awaitingInitialConsultation": false
+    },
+    {
+      "petId": 2,
+      "name": "Royal Palace",
+      "species": {
+        "id": 1,
+        "description": "Canine",
+        "bookInitialConsultOnline": true
+      },
+      "breed": {
+        "id": 114407057,
+        "description": "Crossbreed"
+      },
+      "awaitingInitialConsultation": false
+    },
+    {
+      "petId": 3,
+      "name": "Nightshade",
+      "species": {
+        "id": 1,
+        "description": "Canine",
+        "bookInitialConsultOnline": true
+      },
+      "breed": {
+        "id": 114407057,
+        "description": "Crossbreed"
+      },
+      "awaitingInitialConsultation": false
+    },
+    {
+      "petId": 4,
+      "name": "Cassie",
+      "species": {
+        "id": 1,
+        "description": "Canine",
+        "bookInitialConsultOnline": true
+      },
+      "breed": {
+        "id": 114407057,
+        "description": "Crossbreed"
+      },
+      "awaitingInitialConsultation": false
+    },
+    {
+      "petId": 5,
+      "name": "Jessica",
+      "species": {
+        "id": 1,
+        "description": "Canine",
+        "bookInitialConsultOnline": true
+      },
+      "breed": {
+        "id": 114407057,
+        "description": "Crossbreed"
+      },
+      "awaitingInitialConsultation": false
+    },
+    {
+      "petId": 6,
+      "name": "Tara",
+      "species": {
+        "id": 1,
+        "description": "Canine",
+        "bookInitialConsultOnline": true
+      },
+      "breed": {
+        "id": 104,
+        "description": "German shepherd"
+      },
+      "awaitingInitialConsultation": false
+    },
+    {
+      "petId": 7,
+      "name": "Snowball",
+      "species": {
+        "id": 1,
+        "description": "Canine",
+        "bookInitialConsultOnline": true
+      },
+      "breed": {
+        "id": 114407057,
+        "description": "Crossbreed"
+      },
+      "awaitingInitialConsultation": false
+    },
+    {
+      "petId": 8,
+      "name": "Tyler",
+      "species": {
+        "id": 1,
+        "description": "Canine",
+        "bookInitialConsultOnline": true
+      },
+      "breed": {
+        "id": 104,
+        "description": "German shepherd"
+      },
+      "awaitingInitialConsultation": false
+    },
+    {
+      "petId": 9,
+      "name": "Buzz",
+      "species": {
+        "id": 1,
+        "description": "Canine",
+        "bookInitialConsultOnline": true
+      },
+      "breed": {
+        "id": 36,
+        "description": "Border collie"
+      },
+      "awaitingInitialConsultation": false
+    },
+    {
+      "petId": 10,
+      "name": "Jamie",
+      "species": {
+        "id": 1,
+        "description": "Canine",
+        "bookInitialConsultOnline": true
+      },
+      "breed": {
+        "id": 114407057,
+        "description": "Crossbreed"
+      },
+      "awaitingInitialConsultation": false
+    },
+    {
+      "petId": 11,
+      "name": "Maisie",
+      "species": {
+        "id": 1,
+        "description": "Canine",
+        "bookInitialConsultOnline": true
+      },
+      "breed": {
+        "id": 114407057,
+        "description": "Crossbreed"
+      },
+      "awaitingInitialConsultation": false
+    },
+    {
+      "petId": 12,
+      "name": "Herbie",
+      "species": {
+        "id": 1,
+        "description": "Canine",
+        "bookInitialConsultOnline": true
+      },
+      "breed": {
+        "id": 114407057,
+        "description": "Crossbreed"
+      },
+      "awaitingInitialConsultation": false
+    },
+    {
+      "petId": 13,
+      "name": "Bonnie",
+      "species": {
+        "id": 1,
+        "description": "Canine",
+        "bookInitialConsultOnline": true
+      },
+      "breed": {
+        "id": 114407057,
+        "description": "Crossbreed"
+      },
+      "awaitingInitialConsultation": false
+    },
+    {
+      "petId": 14,
+      "name": "Shannon Lass",
+      "species": {
+        "id": 1,
+        "description": "Canine",
+        "bookInitialConsultOnline": true
+      },
+      "breed": {
+        "id": 114407057,
+        "description": "Crossbreed"
+      },
+      "awaitingInitialConsultation": false
+    },
+    {
+      "petId": 15,
+      "name": "Star",
+      "species": {
+        "id": 1,
+        "description": "Canine",
+        "bookInitialConsultOnline": true
+      },
+      "breed": {
+        "id": 114407057,
+        "description": "Crossbreed"
+      },
+      "awaitingInitialConsultation": false
+    },
+    {
+      "petId": 16,
+      "name": "Roxy",
+      "species": {
+        "id": 1,
+        "description": "Canine",
+        "bookInitialConsultOnline": true
+      },
+      "breed": {
+        "id": 114407057,
+        "description": "Crossbreed"
+      },
+      "awaitingInitialConsultation": false
+    }
+  ],
+  "clients": [
+    {
+      "clientId": 1,
+      "firstName": "Joe",
+      "lastName": "Doe",
+      "email": "joe.doe@gmail.com",
+      "authenticationType": "SocialConnection",
+      "homePracticeId": 160400120,
+      "homePracticeName": "Ashby 24 Hour",
+      "homePracticePhone": "01724 842 655",
+      "isActivated": true,
+      "requireContactPreferencesUpdate": false,
+      "isAppointmentBookingAndPetRegistrationAllowed": false
+    }
+  ]
+}
